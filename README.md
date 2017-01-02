@@ -1,6 +1,7 @@
 # FastMask
 
 FastMask: Segment Multi-scale Object Candidates in One Shot
+https://arxiv.org/abs/1612.08843
 
 Hexiang Hu\*, Shiyi Lan\*, Yuning Jiang, Zhimin Cao, Fei Sha  
 (\*Equal contribution. Work was done during their internships at Megvii Inc.)
